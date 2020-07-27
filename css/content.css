@@ -1,0 +1,40 @@
+.content-sec1{
+    background-color:rgb(15, 11, 11);
+    display: flex;
+    padding-top: 2cm;
+    
+}
+
+.content-sec1 .sec1-img{
+    height: 8cm;
+    width: 15.05cm;
+    padding-bottom: 0cm;
+
+
+
+}
+.sec1-p{
+    padding-left: 2cm;
+    font-size: 30px;
+    font-style: italic;
+    color:white;
+    padding-bottom: 2cm;
+    height: 7cm;
+    width: 19cm;
+}
+.innovation{
+    color: yellow;
+background-color:rgb(51, 1, 25);;
+text-align: center;
+font-size: 30px;
+}
+
+.article{
+    color: yellow;
+    font-size: 30px;
+    background-color:rgb(51, 1, 25);;
+    text-align: center;
+}
+span{
+    color: yellow;
+}

@@ -1,0 +1,50 @@
+.nav-main{
+    background-color:rgba(0.4, 0.5, 0.4, 0.9);
+    height: 2cm;
+}
+
+.nav-ul{
+    color: yellow;
+    font-family: Roboto;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    font-size: 29px;
+    padding-top: 0.5cm;
+    
+}
+.hd{
+    height: 10cm;
+    display: flex;   
+    flex-direction: row;
+    background-color:gray;
+    
+
+}
+
+.hd-img{
+  height: 10cm;
+  width: 15cm;
+}
+.object-ive{
+    color:white;
+    height: 10cm;
+    margin-left: 1cm;
+    background-image: url('/img/black.png');
+    font-size: 25px;
+    background-size: 30cm;
+    background-repeat: repeat;
+
+}
+
+.h-text{
+    padding-left: 2cm;
+    padding-right:2cm;
+    color:white;
+
+    
+}
+     
+
+
+

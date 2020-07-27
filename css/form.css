@@ -1,0 +1,19 @@
+.form-section{
+    background-color: rgb(51, 1, 25);
+    display: flex;
+    height: 10cm;
+    width: 36cm;
+    justify-content: space-around;
+}
+.form{
+font-size: 25px;
+color: white;
+padding-left:1cm;
+}
+
+#last{
+    margin: 1cm;
+    width: 7cm;
+
+    
+}
